@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="LifeDJIK/android_device_unknown_m805_892x" path="device/unknown/m805_892x" remote="github" revision="ics-release" />
+    <project name="LifeDJIK/android_kernel_unknown_m805_892x" path="kernel/unknown/m805_892x" remote="github" revision="ics-release" />
+    <project name="LifeDJIK/android_vendor_unknown_m805_892x" path="vendor/unknown/m805_892x" remote="github" revision="ics-release" />
+</manifest>
