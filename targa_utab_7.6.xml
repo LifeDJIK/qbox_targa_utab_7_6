@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project name="LifeDJIK/android_device_targa_utab_7.6" path="device/targa/utab_7.6" remote="github" revision="cm-10.1" />
-    <project name="LifeDJIK/android_kernel_targa_utab_7.6" path="kernel/targa/utab_7.6" remote="github" revision="cm-10.1" />
-    <project name="LifeDJIK/android_vendor_targa_utab_7.6" path="vendor/targa/utab_7.6" remote="github" revision="cm-10.1" />
+    <project name="LifeDJIK/android_device_targa_utab_7_6" path="device/targa/utab_7_6" remote="github" revision="cm-10.1" />
+    <project name="LifeDJIK/android_kernel_targa_utab_7_6" path="kernel/targa/utab_7_6" remote="github" revision="cm-10.1" />
+    <project name="LifeDJIK/android_vendor_targa_utab_7_6" path="vendor/targa/utab_7_6" remote="github" revision="cm-10.1" />
     <remove-project name="CyanogenMod/android_prebuilts_misc" />
     <project path="prebuilts/misc" name="LifeDJIK/android_prebuilts_misc" revision="jellybean-stable" />
     <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" />
