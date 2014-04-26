@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project name="LifeDJIK/android_device_targa_utab_7_6" path="device/targa/utab_7_6" remote="github" revision="ics-release" />
-    <project name="LifeDJIK/android_kernel_targa_utab_7_6" path="kernel/targa/utab_7_6" remote="github" revision="ics-release" />
-    <project name="LifeDJIK/android_vendor_targa_utab_7_6" path="vendor/targa/utab_7_6" remote="github" revision="ics-release" />
+    <project name="LifeDJIK/android_device_qbox_targa_utab_7_6" path="device/qbox/targa_utab_7_6" remote="github" revision="ics-release" />
+    <project name="LifeDJIK/android_kernel_qbox_targa_utab_7_6" path="kernel/qbox/targa_utab_7_6" remote="github" revision="ics-release" />
+    <project name="LifeDJIK/android_vendor_qbox_targa_utab_7_6" path="vendor/qbox/targa_utab_7_6" remote="github" revision="ics-release" />
 </manifest>
